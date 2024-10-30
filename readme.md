@@ -1,30 +1,7 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 
-
-<!--img-->
+![5](https://github.com/user-attachments/assets/c54fead2-a3d7-4006-bbae-575e145c6b62)
 
 #  <a name="table">TABLE OF CONTENT </a>
 
@@ -226,18 +203,21 @@ you’d like. We’ll go with the latter.
 In your Next.js project at the root, create a .vscode folder
 and within it a settings.json file with the following code:
 
-
-
+ 
+ # <a name="extension">Extension</a>
 # Install ESLint and Prettier from the Extensions Marketplace
 
-<!--img-->
-<!--img-->
+![Screenshot 2024-10-30 122954](https://github.com/user-attachments/assets/6b76fbbb-e907-4a4d-8045-9c01aa4d1101)
+
+![Screenshot 2024-10-30 123022](https://github.com/user-attachments/assets/4dc8d514-57b4-46f6-ba7d-024da1af947c)
+
+
 
 </br>
 
 ### IMPORTANT: Install the Prettier Eslint Package too (a third one!).
 
-<!--img-->
+![Screenshot 2024-10-30 123202](https://github.com/user-attachments/assets/98730ddf-0388-489f-820d-09524b819801)
 
 </br>
 
